@@ -1,0 +1,1 @@
+long double SolvingEquations(double a,double b);
