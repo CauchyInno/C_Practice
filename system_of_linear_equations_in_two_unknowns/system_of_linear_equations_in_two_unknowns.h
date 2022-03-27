@@ -1,0 +1,1 @@
+void SolvingEquations(long double * x,long double * y,long double a,long double b,long double c,long double d,long double e,long double f);
